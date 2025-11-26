@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="school_furniture.py" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="/school_furniture.py" />
+    <script-mode>FILE</script-mode>
+    <method v="2" />
+  </configuration>
+</component>

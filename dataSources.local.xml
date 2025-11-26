@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PY-252.23892.439">
+    <data-source name="identifier.sqlite" uuid="a04d5c13-d27a-4ea2-b688-e9cf25a34918">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" />
+      <secret-storage>master_key</secret-storage>
+      <auth-provider>no-auth</auth-provider>
+      <schema-mapping />
+    </data-source>
+    <data-source name="User Data Source" uuid="13ccb29a-bc57-4715-893c-23cad77fb52e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="UNKNOWN" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>junior Maige</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
